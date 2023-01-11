@@ -1,0 +1,307 @@
+{
+  "header": {
+    "name": "Nainu Wadhwa",
+    "role": "ancd",
+    "overallExperience": {
+      "startDate": "May 21, 2018",
+      "replacer": "{{experience}}"
+    }
+  },
+  "experience": [
+    {
+      "company": "Infosys Ltd",
+      "duration": {
+        "from": "21 May, 2018",
+        "to": "present"
+      },
+      "location": "Hyderabad, Telangana",
+      "work": [
+        {
+          "role": "Specialist Programmer",
+          "duration": {
+            "from": "1 Jul, 2020",
+            "to": "present"
+          },
+          "projects": [
+            {
+              "name": "Kraft Heinz",
+              "technologies": ["Angular", "Git", "Azure"],
+              "responsibilities": [
+                "Awarded as the best young developer for the web app development",
+                "Boosted user experience scores by 55% over company-wide previous best for sales team",
+                "Completed 3 web apps to manage the high sensitive sales data"
+              ]
+            },
+            {
+              "name": "T-Rux",
+              "technologies": ["Angular", "Git", "Keycloak", "ThreeJS"],
+              "responsibilities": [
+                "Enhanced UX by providing the ability to integrate survey data into an SPA",
+                "Reduced finish time by 50% to create a complete task"
+              ]
+            },
+            {
+              "name": "Airbus",
+              "technologies": ["React", "Git", "ExpressJS"],
+              "responsibilities": [
+                "Developed a robust react application to manage millions of entries",
+                "Provided web accessibility to enhance user experience",
+                "Created a light weight express server to perform internal operations"
+              ]
+            }
+          ],
+          "description": [
+            "Developed well designed, testable, efficient code by using best software development practices",
+            "Managed the modularity of the application to reduce the redundancy of the code",
+            "Participated in internal hackathons and interview activities"
+          ],
+          "showDescription": true
+        },
+        {
+          "role": "Systems Engineer",
+          "duration": {
+            "from": "21 May, 2018",
+            "to": "30 Jun, 2020"
+          },
+          "projects": [
+            {
+              "name": "Apple",
+              "technologies": ["React", "ReconJS", "Mustache", "SCSS", "GIT"],
+              "responsibilities": [
+                "Provided web accessibility to enhance user experience",
+                "Upgraded existing web components to latest stack with new features",
+                "Providing optimized solutions for performance"
+              ]
+            }
+          ],
+          "description": [
+            "Enhanced and maintained web accessibility across various web apps while enhancing the user experience",
+            "Upgraded existing web app to available newer stack as per the standards"
+          ],
+          "showDescription": true
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "type": "Graduation",
+      "degree": "B.Tech.",
+      "school": "School_Name",
+      "score": "Score",
+      "isHidden": false,
+      "duration": {
+        "from": "July, 2014",
+        "to": "May, 2018"
+      },
+      "isGraduation": true
+    }, {
+      "type": "Senior Secondary",
+      "degree": "",
+      "school": "School_Name",
+      "score": "75.6%",
+      "isHidden": false,
+      "duration": {
+        "from": "Jun, 2012",
+        "to": "May, 2013"
+      },
+      "isGraduation": false
+    }, {
+      "type": "Secondary",
+      "degree": "",
+      "school": "School_Name",
+      "score": "79.0%",
+      "isHidden": false,
+      "duration": {
+        "from": "July, 2010",
+        "to": "Jun, 2011"
+      },
+      "isGraduation": false
+    }
+  ],
+  "projects": [
+    {
+      "name": "Dev Social Media",
+      "technologies": ["MERN", "Git", "Redux", "Heroku"],
+      "desc": "A social platform where developers can connect, post and handle their profiles",
+      "link": "project_link_url",
+      "isHidden": false
+    }, {
+      "name": "Gradient Code",
+      "technologies": ["React", "CSS3", "HTML5 Canvas"],
+      "desc": "A web app to create, save, edit and download the gradients",
+      "link": "project_link_url",
+      "isHidden": false
+    }, {
+      "name": "Libraries",
+      "technologies": ["JavaScript", "React", "Chalk", "Boxen"],
+      "desc": "Published libraries on NPM",
+      "link": "project_link_url",
+      "isHidden": true
+    }, {
+      "name": "FreeCodeCamp",
+      "technologies": ["React", "JavaScript", "CSS3", "HTML5 Canvas"],
+      "desc": "10 small projects based on certification",
+      "link": "project_link_url",
+      "isHidden": false
+    }
+  ],
+  "others": {
+    "achievements": [
+      "Won the most valuable coder for the project (Kraft Heinz)",
+      "Won Infosys awards for most valuable player",
+      "Participated and qualified to the finale round of Smart India Hackathon"
+    ],
+    "certificates": [
+      {
+        "org": "FreeCodeCamp",
+        "name": "Responsive Web Design, DSA using JS, FE libraries",
+        "valid": {
+          "from": "Feb 28, 2021",
+          "to": "Present"
+        },
+        "link": "certificate_link",
+        "containsSub": true,
+        "shouldShowSubs": false,
+        "subs": [
+          {
+            "name": "Front End Development Libraries",
+            "link": "certificate_link",
+            "issuedOn": "July 11, 2021"
+          },
+          {
+            "name": "JavaScript Algorithms and Data Structures",
+            "link": "certificate_link",
+            "issuedOn": "March 20, 2021"
+          },
+          {
+            "name": "Responsive Web Design",
+            "link": "certificate_link",
+            "issuedOn": "Feb 28, 2021"
+          }
+        ]
+      },
+      {
+        "org": "HackerRank",
+        "name": "JS, React, Angular, Node, Python, etc.",
+        "valid": {
+          "from": "Sep 10, 2020",
+          "to": "Present",
+          "showCurrent": true
+        },
+        "link": "certificate_link",
+        "containsSub": true,
+        "shouldShowSubs": false,
+        "subs": [
+          {
+            "name": "Angular (Intermediate)",
+            "link": "certificate_link",
+            "issuedOn": "Nov 14, 2021"
+          },
+          {
+            "name": "Angular (Basic)",
+            "link": "certificate_link",
+            "issuedOn": "Nov 14, 2021"
+          },
+          {
+            "name": "Node (Basic)",
+            "link": "certificate_link",
+            "issuedOn": "Nov 14, 2021"
+          },
+          {
+            "name": "Rest API (Intermediate)",
+            "link": "certificate_link",
+            "issuedOn": "Nov 02, 2021"
+          },
+          {
+            "name": "React (Basic)",
+            "link": "certificate_link",
+            "issuedOn": "Oct 08, 2021"
+          },
+          {
+            "name": "JavaScript (Intermediate)",
+            "link": "certificate_link",
+            "issuedOn": "Oct 08, 2021"
+          },
+          {
+            "name": "JavaScript (Basic)",
+            "link": "certificate_link",
+            "issuedOn": "Oct 08, 2021"
+          },
+          {
+            "name": "Problem Solving (Basic)",
+            "link": "certificate_link",
+            "issuedOn": "Oct 08, 2021"
+          },
+          {
+            "name": "CSS",
+            "link": "certificate_link",
+            "issuedOn": "Oct 08, 2021"
+          },
+          {
+            "name": "Python (Intermediate)",
+            "link": "certificate_link",
+            "issuedOn": "Sep 11, 2020"
+          },
+          {
+            "name": "Python (Basic)",
+            "link": "certificate_link",
+            "issuedOn": "Sep 10, 2020"
+          }
+        ]
+      },
+      {
+        "org": "Microsoft",
+        "name": "Microsoft 70-480: Programming in HTML5 with JavaScript and CSS3",
+        "valid": {
+          "from": "Jun 04, 2019",
+          "to": "Present"
+        },
+        "link": null,
+        "containsSub": false,
+        "shouldShowSubs": false,
+        "subs": []
+      }
+    ],
+    "skills": [
+      {
+        "rating": 5,
+        "technologies": ["React", "JS", "CSS", "HTML"],
+        "info": "Excellent"
+      },
+      {
+        "rating": 4,
+        "technologies": ["Angular", "Express", "Git"],
+        "info": "Very Good"
+      },
+      {
+        "rating": 3,
+        "technologies": ["NodeJS", "MongoDB", "SQL", "ThreeJS"],
+        "info": "Good"
+      }
+    ],
+    "softwares": [
+      "Figma",
+      "VSCode",
+      "Git",
+      "Jira",
+      "Bootstrap Studio",
+      "Ubuntu",
+      "etc."
+    ],
+    "interests": ["Chess", "Sudoku", "Listening to LoFi Music"],
+    "languages": [
+      { "language": "Hindi", "rating": 5, "info": "Native or Bilingual Proficiency" },
+      { "language": "English", "rating": 4, "info": "Full Professional Proficiency" },
+      { "language": "Spanish", "rating": 1, "info": "Elementary Proficiency" }
+    ],
+    "showOnly": {
+      "achievements": false,
+      "certificates": true,
+      "skills": true,
+      "softwares": true,
+      "interests": true,
+      "languages": false
+    }
+  }
+}
